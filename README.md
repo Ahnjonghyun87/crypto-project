@@ -1,3 +1,5 @@
+크립토 거래소 가격 표시, 차트, 월렛 기능 관련 사이드 프로젝트.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
